@@ -1,5 +1,6 @@
 ###Домашнее задание
-#####https://github.com/hhru/api/blob/master/docs/vacancies.md#search
+
+https://github.com/hhru/api/blob/master/docs/vacancies.md#search
 
 Написать автоматические тесты на /vacancies endpoint в api.hh.ru.
 
